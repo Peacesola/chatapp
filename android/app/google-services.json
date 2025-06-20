@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1063977879594",
+    "project_id": "chat-practice2",
+    "storage_bucket": "chat-practice2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063977879594:android:38e45278f4289193b19b53",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063977879594-vcfj1bvt02t0f6i9otpbdql3bh15plua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuj_zfO2AQBjOcgeC7mEjHTgGD6WYnba0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063977879594-vcfj1bvt02t0f6i9otpbdql3bh15plua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063977879594-e41cm1ufu7rl1o3c0tsm3ldrmji0m8fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
